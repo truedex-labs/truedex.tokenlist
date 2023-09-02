@@ -5,7 +5,7 @@
 | 代币符号 | `HSTZ` |
 | 代币全称 | `Exchange Merchant` |
 | 发行总量 | `4000万枚` |
-| 发行公链 | Armonia Meta Chain (`AMC`) |
+| 发行公链 | `Armonia Meta Chain`|
 | 代币合约 | `mdao.token` |
 
 # 项目描述
