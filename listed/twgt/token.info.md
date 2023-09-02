@@ -19,12 +19,9 @@
   
 # Token distribution
 
-* 21 holders of TWGT DAO NFT are allocated with 50% shares with a 3-year vesting schedule, 5% - 10% - 80%;
-* 100 K TWGT DAO NFT holders to take 25% and will be allocated upon sales;
-* Strategic partners to take 10% with a 3-year vesting schedule: 2% - 3% - 5%;
-* Foundation to take 10% with a vesting schedule to be decided;
-* Marketing promotion team to take 5% with a 3-year linear vesting schedule;
+* 10K`TWGT` to be airdropped to TycheFi Earn Pools
+* Rest to be managed by the foundation for market stablility and overall wealth development for users and the community 
   
 # DAO governance
 
-`$TWGT` governance right belongs to the 21 DAO governance NFT holders through voting exercises
+`$TWGT` governance right belongs to TycheFi foundation
