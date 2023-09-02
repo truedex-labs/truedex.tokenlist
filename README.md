@@ -1,4 +1,4 @@
-# truedex.tokenlist
+# TrueDex Token Listing
 Token Listing on TrueDEX
 
 ## Listed Tokens
