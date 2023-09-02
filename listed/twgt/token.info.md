@@ -3,8 +3,8 @@
 |Item | Value|
 |--|--|
 | Symbol | `TWGT` |
-| Fullname | `TycheFi Wealth Generation Token` |
-| Total Supply | `2100万枚` |
+| Name | `TycheFi Wealth Generation Token` |
+| Total Supply | `2100` |
 | Blockchain | `Armonia Meta Chain`|
 | Token Contract | `tyche.token` |
 

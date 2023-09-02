@@ -1,5 +1,6 @@
 {
-    "symbol": "TCHE",
+    "symbol": "TWGT",
+    "name": "TycheFi Wealth Generation Token",
     "precision": 6,
     "total_supply": 21000000,
     "blockchain": "Armonia Meta Chain|Ethereum",

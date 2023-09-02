@@ -1,5 +1,6 @@
 {
     "symbol": "HSTZ",
+    "name": "汇商通证",
     "precision": 6,
     "total_supply": 40000000,
     "blockchain": "Armonia Meta Chain",
