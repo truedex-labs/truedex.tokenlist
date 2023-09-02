@@ -1,0 +1,11 @@
+{
+    "symbol": "TCHE",
+    "precision": 6,
+    "total_supply": 21000000,
+    "blockchain": "Armonia Meta Chain|Ethereum",
+    "token_contract": "tyche.token|",
+    "issue_date": "2023-09-03",
+    "issue_price": 0.01,
+    "contacts": "web:https://tychefi.xyz|tw:|tg:t.me/tychefi|mdao:GenesisDAO",
+    "description": "`$TCHE`is your ticket to TycheFi managed Wealth generation System."
+}
