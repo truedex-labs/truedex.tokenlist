@@ -11,6 +11,12 @@
 # Project Description
 `$TWGT`is the share as well as the governance token to Exchange Merchant community and its value comes from the community consensus, community business income as well as the force to deflate the overall supply.
 
+* TycheFi Wealth supports following main business:
+  - 量化交易（短周期）
+  - 固收理财（长周期）
+  - 投资理财（中长周期）
+  - DeFi建设（中长周期）
+  
 # Token distribution
 
 * 21 holders of TWGT DAO NFT are allocated with 50% shares with a 3-year vesting schedule, 5% - 10% - 80%;
