@@ -3,7 +3,7 @@
 |Item | Value|
 |--|--|
 | 代币符号 | `TWGT` |
-| 代币全称 | `天池财富创造通证` - `TycheFi Wealth Generation Token` |
+| 代币全称 | `天池通证`: `天池财富创造通证` |
 | 发行总量 | `2100万枚` |
 | 发行公链 | `Armonia Meta Chain`|
 | 代币合约 | `tyche.token` |
