@@ -3,7 +3,7 @@
     "name": "汇商通证",
     "precision": 6,
     "total_supply": 40000000,
-    "blockchain": "Armonia Meta Chain公链",
+    "blockchain": "Armonia Meta Chain",
     "token_contract": "mdao.token",
     "issue_date": "2023-08-03",
     "issue_price": 0.01,
