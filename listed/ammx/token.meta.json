@@ -1,12 +1,12 @@
 {
-    "symbol": "HSTZ",
-    "name": "Exchange Merchant Token",
+    "symbol": "AMMX",
+    "name": "AMMUP Protocol Coin",
     "precision": 6,
-    "total_supply": 40000000,
+    "total_supply": 100000000,
     "blockchain": "Armonia Meta Chain",
     "token_contract": "mdao.token",
     "issue_date": "2023-08-03",
-    "issue_price": 0.01,
-    "contacts": "web:|tw:|tg:|mdao:",
-    "description": "$HSTZ is the share as well as the governance token to Exchange Merchant community and its value comes from the community consensus, community business income as well as the force to deflate the overall supply."
+    "issue_price": 0.0002,
+    "contacts": "web:https://app.ammup.com|tw:|tg:|mdao:",
+    "description": "$AMMXbelongs to the AMMUP protocol DEX ecological governance token, the value comes from the AMMUP protocol DEX traffic and ecological value growth, community consensus, there is a destruction of deflation mechanism. AMMUP protocol DEX has a professional market value management team, through the professional market value management will continue to promote the steady appreciation of AMMX."
 }
