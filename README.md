@@ -12,7 +12,7 @@ Token Listing on TrueDEX
 8. After your `PR` has been approved and merged into this project repo. your token will be listed on https://truedex.io
 
 ## Listed Tokens
-* [TRUC](listed/TRUC/token.info.md) | [天赐通证](listed/TRUC/token.info.zh.md)
+* [TRUC](listed/truc/token.info.md) | [天赐通证](listed/truc/token.info.zh.md)
 * [HSTZ](listed/hstz/token.info.md) | [汇商通证](listed/hstz/token.info.zh.md)
 * [MNTH](listed/mnth/token.info.md) | [你太火通证](listed/mnth/token.info.zh.md)
 * [AMMX](listed/ammx/token.info.md) | [AMMUP协议通证](listed/ammx/token.info.zh.md)
