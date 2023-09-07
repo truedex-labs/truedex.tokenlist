@@ -13,7 +13,7 @@
 
 # Token distribution
 
-* AMMX Coin Will not conduct private placement and pre-sale, no IDO on any platform, all AMMX Coin will be produced through AMMUP, community contribution and TrueDEX transactions.
+* AMMX Coin Will not conduct private placement and pre-sale, no IDO on any platform, all AMMX Coin will be produced through AMMUP, community contribution and TRUCDEX transactions.
 * Foundation: 30%
 * Community contribution incentive: 10%
 * Development Community: 20%
