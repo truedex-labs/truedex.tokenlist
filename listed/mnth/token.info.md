@@ -15,10 +15,10 @@
 # Token distribution
 
 * NTH Coin will not be private and pre-sold, no IDO will be performed on any platform, and all NTH Coin will be rewarded for production through the 1.0 phase of the NTH meta-universe.
-* Open market: 1%
-* Node: 1.5%
-* Technology operation: 2%
-* Mining output: 95.5%
+* Open market: `1%`
+* Node: `1.5%`
+* Technology operation: `2%`
+* Mining output: `95.5%`
 
   
 # DAO governance
