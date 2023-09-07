@@ -1,5 +1,5 @@
-# TRUCDex Token Listing
-Token Listing on TRUCDEX
+# TrueDEX Token Listing
+Token Listing on TrueDEX
 
 # How to get listed
 1. Fork this project into your own github repo and clone it locally;
