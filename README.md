@@ -8,8 +8,8 @@ Token Listing on TRUCDEX
 4. Update file content accordingly inside your own project folder;
 5. Commit changes and push to your github remote repo;
 6. Make a Pull Request (`PR`) to this project repo;
-7. Wait for this project admin to review and approve your `PR`. If need be, make the necessary changes requested by `TRUCDEX project admin.
-8. After your `PR` has been approved and merged into this project repo. your token will be listed on https://TRUCdex.io
+7. Wait for this project admin to review and approve your `PR`. If need be, make the necessary changes requested by `TrueDEX` project admin.
+8. After your `PR` has been approved and merged into this project repo. your token will be listed on https://truedex.io
 
 ## Listed Tokens
 * [TRUC](listed/TRUC/token.info.md) | [天赐通证](listed/TRUC/token.info.zh.md)
