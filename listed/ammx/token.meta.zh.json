@@ -1,6 +1,7 @@
 {
     "symbol": "AMMX",
     "name": "AMMUP协议通证",
+    "precision": 6,
     "total_supply": "100,000,000",
     "blockchain": "Armonia Meta Chain",
     "token_contract": "mdao.token",
