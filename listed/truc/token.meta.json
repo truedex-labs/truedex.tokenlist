@@ -2,14 +2,14 @@
     "symbol": "TRUC",
     "name": "TycheFi Wealth Generation Token",
     "precision": 6,
-    "total_supply": 21000000,
+    "total_supply": "21,000,000",
     "blockchain": "Armonia Meta Chain|Ethereum",
     "token_contract": "tyche.token",
     "issue_date": "2023-09-08",
     "issue_price": 0.01,
     "contacts": {
         "web": "https://tychefi.xyz",
-        "tw": "https://x.com/@tychefi",
+        "tw": "https://x.com/tychefi",
         "tg": "t.me/tychefi",
         "mdao": "GenesisDAO"
     },
