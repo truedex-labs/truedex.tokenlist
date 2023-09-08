@@ -1,7 +1,7 @@
 {
     "symbol": "TYCHE",
     "name": "TycheFi Wealth Generation Token",
-    "precision": 6,
+    "precision": 8,
     "total_supply": "21,000,000",
     "blockchain": "Armonia Meta Chain|Ethereum",
     "token_contract": "tyche.token",

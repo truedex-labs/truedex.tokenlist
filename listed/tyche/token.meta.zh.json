@@ -1,8 +1,10 @@
 {
     "symbol": "TYCHE",
-    "total_supply": "40,000,000",
-    "blockchain": "Armonia Meta Chain|以太坊",
-    "token_contract": "mdao.token|",
+    "name": "天池财富通证",
+    "precision": 8,
+    "total_supply": "21,000,000",
+    "blockchain": "Armonia Meta Chain",
+    "token_contract": "tyche.token",
     "issue_date": "2023-09-08",
     "issue_price": 0.01,
     "contacts": {
