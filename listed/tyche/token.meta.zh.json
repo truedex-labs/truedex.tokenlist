@@ -1,0 +1,15 @@
+{
+    "symbol": "TYCHE",
+    "total_supply": "40,000,000",
+    "blockchain": "Armonia Meta Chain|以太坊",
+    "token_contract": "mdao.token|",
+    "issue_date": "2023-09-08",
+    "issue_price": 0.01,
+    "contacts": {
+        "web": "https://tychefi.xyz",
+        "tw": "https://x.com/tychefi",
+        "tg": "https://t.me/tychefi",
+        "mdao": "genesis.dao"
+    },
+    "description": "$TYCHE通证是带您进入天池财富管理的永动且智能财富创造系统的门票"
+}
