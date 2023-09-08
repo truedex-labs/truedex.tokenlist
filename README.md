@@ -13,7 +13,7 @@ Token Listing on TrueDEX
 9. Additionally, the token project owner may be required to send 10K tokens to `tyche.admin` for airdrops in `TycheFi Earn Pools`
 
 ## Listed Tokens
-* [TYCHE](listed/TYCHE/token.info.md) | [天赐通证](listed/TYCHE/token.info.zh.md)
+* [TYCHE](listed/TYCHE/token.info.md) | [天赐财富通证](listed/TYCHE/token.info.zh.md)
 * [HSTZ](listed/hstz/token.info.md) | [汇商通证](listed/hstz/token.info.zh.md)
 * [MNTH](listed/mnth/token.info.md) | [你太火通证](listed/mnth/token.info.zh.md)
 * [AMMX](listed/ammx/token.info.md) | [AMMUP协议通证](listed/ammx/token.info.zh.md)
