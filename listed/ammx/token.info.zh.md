@@ -14,7 +14,7 @@
 
 # 持有分配
 
-* AMMX Coin不会进行私募与预售，不在任何平台进行任何IDO，所有的 AMMX Coin将通过AMMUP社区贡献和TRUCDEX 交易产出。
+* AMMX Coin不会进行私募与预售，不在任何平台进行任何IDO，所有的 AMMX Coin将通过AMMUP社区贡献和TYCHEDEX 交易产出。
 * 基金会：30%
 * 社区贡献激励：10%
 * 开发社区：20%

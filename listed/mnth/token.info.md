@@ -9,7 +9,7 @@
 | Token Contract | `mdao.token` |
 
 # Project Description
-`$MNTH` belongs to New Treasure Hall community ecological governance token, the value comes from the growth of New Treasure Hall flow and ecological value, community consensus, and there is a mechanism of destruction and deflation. New Treasure Hall has a professional market value management team, through professional market value management will continue to promote the steady appreciation of MNTH.
+`$MNTH` belongs to New Treasure Hall community ecological governance token, the value comes from the growth of New Treasure Hall flow and ecological value, community consensus, and there is a mechanism of desTYCHEtion and deflation. New Treasure Hall has a professional market value management team, through professional market value management will continue to promote the steady appreciation of MNTH.
 
 
 # Token distribution
