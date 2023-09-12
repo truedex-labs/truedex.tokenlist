@@ -7,6 +7,11 @@
     "token_contract": "mdao.token",
     "issue_date": "2023-08-10",
     "issue_price": 0.1,
-    "contacts": "web:|tw:|tg:|mdao:",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "",
+        "mdao": ""
+    },
     "description": "$BTCC belongs to the BIT CENTURY community ecological governance token, whose value comes from the growth of BIT CENTURY traffic and ecological value, community consensus, and has a destruction of deflation mechanism. BIT CENTURY There is a professional market value management team, through the professional market value management will continue to promote the steady increase of BTCC"
 }
