@@ -10,7 +10,7 @@ Token Listing on TrueDEX
 6. Make a Pull Request (`PR`) to this project repo;
 7. Wait for this project admin to review and approve your `PR`. If need be, make the necessary changes requested by `TrueDEX` project admin.
 8. After your `PR` has been approved and merged into this project repo, your token will be listed on https://truedex.io
-9. Additionally, the token project owner may be required to send 10K tokens to `tyche.admin` for airdrops in `TycheFi Earn Pools`
+9. Additionally, the token project owner may be required to send `10K` tokens to `tyche.admin` for airdrops in `TycheFi Earn Pools`
 
 ## Listed Tokens
 * [TYCHE](listed/TYCHE/token.info.md) | [天赐财富通证](listed/tyche/token.info.zh.md)
