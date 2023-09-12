@@ -1,0 +1,12 @@
+{
+    "symbol": "BTCC",
+    "name": "BIT CENTURY",
+    "precision": 6,
+    "total_supply": 100000000,
+    "blockchain": "Armonia Meta Chain",
+    "token_contract": "mdao.token",
+    "issue_date": "2023-08-03",
+    "issue_price": 0.1,
+    "contacts": "web:|tw:|tg:|mdao:",
+    "description": "$BTCC属于BIT CENTURY社区生态治理代币，价值来源于BIT CENTURY流量和生态价值、社区共识的增长，有销毁通缩机制。BIT CENTURY有专业的市值管理团队，通过专业的市值管理将持续推动BTCC的稳步增值。"
+}
