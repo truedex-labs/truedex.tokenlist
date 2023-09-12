@@ -17,3 +17,4 @@ Token Listing on TrueDEX
 * [HSTZ](listed/hstz/token.info.md) | [汇商通证](listed/hstz/token.info.zh.md)
 * [MNTH](listed/mnth/token.info.md) | [你太火通证](listed/mnth/token.info.zh.md)
 * [AMMX](listed/ammx/token.info.md) | [AMMUP协议通证](listed/ammx/token.info.zh.md)
+* [BTCC](listed/btcc/token.info.md) | [BIT CENTURY](listed/btcc/token.info.zh.md)
