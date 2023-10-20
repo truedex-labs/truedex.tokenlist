@@ -18,3 +18,4 @@ Token Listing on TrueDEX
 * [MNTH](listed/mnth/token.info.md) | [你太火通证](listed/mnth/token.info.zh.md)
 * [AMMX](listed/ammx/token.info.md) | [AMMUP协议通证](listed/ammx/token.info.zh.md)
 * [BTCC](listed/btcc/token.info.md) | [比特世纪通证](listed/btcc/token.info.zh.md)
+* [ZHJJH](listed/zhjjh/token.info.md) | [中华数字资产基金会通证](listed/zhjjh/token.info.zh.md)
