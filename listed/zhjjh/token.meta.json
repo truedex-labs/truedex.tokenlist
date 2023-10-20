@@ -1,0 +1,17 @@
+{
+    "symbol": "ZHJJH",
+    "name": "Chinese Digital Asset Foundation Token",
+    "precision": 6,
+    "total_supply": "1,000,000,000",
+    "blockchain": "Armonia Meta Chain",
+    "token_contract": "mdao.token",
+    "issue_date": "2023-10-20",
+    "issue_price": 0.001,
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "$ZHJJJ is the share as well as the governance token to Chinese Digital Asset Foundation community and its value comes from the community consensus, community business income as well as the force to deflate the overall supply."
+}
