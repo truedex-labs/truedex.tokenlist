@@ -7,11 +7,12 @@
     "token_contract": "mdao.token",
     "issue_date": "2023-10-20",
     "issue_price": 0.001,
+    "whitepaper": "whitepaper.zh.md",
     "contacts": {
         "web": "",
         "tw": "",
         "tg": "",
-        "mdao": ""
+        "mdao": "zhszzcjj.dao"
     },
     "description": "$ZHJJH is the share as well as the governance token to Chinese Digital Asset Foundation community and its value comes from the community consensus, community business income as well as the force to deflate the overall supply."
 }

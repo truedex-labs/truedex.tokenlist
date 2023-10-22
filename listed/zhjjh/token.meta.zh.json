@@ -7,11 +7,12 @@
     "token_contract": "mdao.token",
     "issue_date": "2023-10-20",
     "issue_price": 0.001,
+    "whitepaper": "whitepaper.zh.md",
     "contacts": {
         "web": "",
         "tw": "",
         "tg": "",
-        "mdao": ""
+        "mdao": "zhszzcjj.dao"
     },
     "description": "$ZHJJH属币股同权，是中华数字资产基金会社区的治理代币，价值来源于社区共识，社区业务收益的集中体现，有通缩销毁机制。"
 }
