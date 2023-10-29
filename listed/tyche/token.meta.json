@@ -6,12 +6,8 @@
     "blockchain": "Armonia Meta Chain|Ethereum",
     "token_contract": "tyche.token",
     "issue_date": "2023-09-08",
-<<<<<<< HEAD
     "issue_price": 1,
-=======
-    "issue_price": 0.01,
     "whitepaper": "https://github.com/tychefi/tychefi.whitepaper/blob/main/tychefi.whitepaper.md",
->>>>>>> bd9e7ce2ebad992da5dfc948db140eb075d2e953
     "contacts": {
         "web": "https://tychefi.xyz",
         "tw": "https://x.com/tychefi",
