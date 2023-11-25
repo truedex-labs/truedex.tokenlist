@@ -22,6 +22,17 @@ Token Listing on TrueDEX
 8. After your `PR` has been approved and merged into this project repo, your token will be listed on https://truedex.io
 9. Additionally, the token project owner may be required to send `10K` tokens to `tyche.admin` for airdrops in `TycheFi Earn Pools`
 
+# 如何上币
+1. 分叉本项目到您自己的GitHub仓库里面，然后再从您的仓库克隆到本地;
+2. 添加您自己的项目代币目录到"listed"目录下面，例: `xyzt` （必须用小写）;
+3. 从`./listed/hstz`下面拷贝所有文件进入上面创建的项目代币目录（例: `./listed/xyzt`）;
+4. 相应更新所有拷贝过来的文件内容;
+5. 提交修改，并且推送到您自己的GitHub远端仓库;
+6. 创建一个合并请求(`PR`) 将您的修改可以合并进入到本项目仓库;
+7. 等待本项目仓库的管理员评审和批准您的合并请求 `PR`. 如果有必要，根据管理员的反馈做相应内容修改.
+8. 在您的合并请求`PR`被批准之后并成功合并进入本项目仓库，您的代币 https://truedex.io 上面完成上币。
+
+
 ## Listed Tokens
 * [TYCHE](listed/TYCHE/token.info.md) | [天赐财富通证](listed/tyche/token.info.zh.md)
 * [HSTZ](listed/hstz/token.info.md) | [汇商通证](listed/hstz/token.info.zh.md)
