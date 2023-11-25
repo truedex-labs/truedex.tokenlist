@@ -1,11 +1,17 @@
 # TrueDEX Token Listing
-Token Listing on TrueDEX (在`TrueDEX`上币)
+Token Listing on TrueDEX
 
-# Mandatory Requirements to list your token (上币必要条件)
-1. must get 20 DID users from `TrueDEX DAO community` to vote for listing your token （必须获得20个TrueDEX DAO社区的DID用户投票通过上币）
-2. must send `1000 TYCHE` to `amgenesisdao` account (必须向`amgenesisdao`这个账户打入1000个天赐币)
+在`TrueDEX`上币
 
-# How to get listed
+# Mandatory Requirements to List Your Token
+1. must get 20 DID users from `TrueDEX DAO community` to vote for listing your token
+2. must send `1000 TYCHE` to `amgenesisdao` account
+
+# 上币必要条件
+1. 必须获得20个TrueDEX DAO社区的DID用户投票通过上币
+1. 必须向`amgenesisdao`这个账户打入1000个天赐币
+
+# How to Get listed
 1. Fork this project into your own GitHub repo and clone it locally;
 2. Add your token project folder under "listed", E.g. `xyzt`;
 3. Add copy files from `./listed/hstz` into `./listed/xyzt`;
