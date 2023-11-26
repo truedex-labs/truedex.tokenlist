@@ -1,11 +1,11 @@
 {
     "symbol": "MBST",
-    "name": "Blockchain Transformation Token",
+    "name": "MBST",
     "precision": 6,
     "total_supply": "1,000,000,000",
     "blockchain": "Armonia Meta Chain",
     "token_contract": "mdao.token",
-    "issue_date": "2023-11-27",
+    "issue_date": "2023-11-30",
     "issue_price": 0.0001,
     "contacts": {
         "email": "gm1498787@gmail.com",
