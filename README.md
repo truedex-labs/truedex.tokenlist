@@ -40,3 +40,6 @@ Token Listing on TrueDEX
 * [AMMX](listed/ammx/token.info.md) | [AMMUP协议通证](listed/ammx/token.info.zh.md)
 * [BTCC](listed/btcc/token.info.md) | [比特世纪通证](listed/btcc/token.info.zh.md)
 * [ZHJJH](listed/zhjjh/token.info.md) | [中华数字资产基金会通证](listed/zhjjh/token.info.zh.md)
+* [LGTZ](listed/lgtz/token.info.md) | [链改通证](listed/lgtz/token.info.zh.md)
+* [MBST](listed/mbst/token.info.md) | [链改通证](listed/mbst/token.info.zh.md)
+* [WMTZ](listed/wmtz/token.info.md) | [微苠通证](listed/wmtz/token.info.zh.md)
