@@ -1,0 +1,18 @@
+{
+    "symbol": "ORDI",
+    "name": "Ordinals",
+    "precision": 6,
+    "total_supply": "21,000,000",
+    "blockchain": "Bitcoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2023-03-08",
+    "issue_price": "$2.863",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "$ORDI 是比特币区块链上第一个使用 BRC-20 可替代代币标准创建的代币"
+}
