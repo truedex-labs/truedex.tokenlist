@@ -8,9 +8,9 @@
     "issue_date": "2022-04-08",
     "issue_price": 5.0,
     "contacts": {
-        "web": "https://amax.network/#/",
-        "tw": "",
-        "tg": "",
+        "web": "https://amax.network",
+        "tw": "https://twitter.com/Armonia_Network",
+        "tg": "https://t.me/ArmoniaMetaChain",
         "mdao": ""
     },
     "description": "Armonia Meta Chain (AMC)是一条高度去中心化的公有区块链，通过子母链多链技术架构和全球独创APOS共识机制，实现安全且超强的并行处理能力，同时兼备极低的交易成本特性，以服务于未来数10亿全球用户为终极目标"

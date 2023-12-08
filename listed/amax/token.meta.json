@@ -8,9 +8,9 @@
     "issue_date": "2022-04-08",
     "issue_price": 5.0,
     "contacts": {
-        "web": "https://amax.network/#/",
-        "tw": "",
-        "tg": "",
+        "web": "https://amax.network",
+        "tw": "https://twitter.com/Armonia_Network",
+        "tg": "https://t.me/ArmoniaMetaChain",
         "mdao": ""
     },
     "description": "The Most Pioneering Public Blockchain Armonia Meta Chain (AMC) is a highly decentralized public blockchain. Through mother-child multichain structure and pioneering APOS consensus mechanism, it strives to achieve reliable, strong parallel processing capability and extremely low transaction fee, with the ultimate goal of serving billions of global users in the future."
