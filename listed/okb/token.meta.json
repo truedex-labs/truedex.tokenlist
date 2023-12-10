@@ -1,0 +1,18 @@
+{
+    "symbol": "OKB",
+    "name": "OKB",
+    "precision": 6,
+    "total_supply": "21,000,000",
+    "blockchain": "Bitcoin->AMC",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2023-03-08",
+    "issue_price": "2.863",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://www.okx.com/",
+        "tw": "https://twitter.com/okx",
+        "tg": "https://t.me/okexofficial_en",
+        "mdao": ""
+    },
+    "description": "OKB is a cryptocurrency released by the OK Blockchain Foundation and Maltese crypto exchange, OKEx. The OKB token plays an important role in the OKEx ecosystem. It allows users to receive up to a 40% discount on transactions."
+}
