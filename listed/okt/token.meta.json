@@ -1,0 +1,18 @@
+{
+    "symbol": "OKT",
+    "name": "OKTC",
+    "precision": 8,
+    "total_supply": "21,000,000",
+    "blockchain": "OKT Chain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2021-01-15",
+    "issue_price": "56.88",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/OKCNetwork",
+        "mdao": ""
+    },
+    "description": "OKT is the mainnet token of OKT Chain, an EVM- and Wasm-compatible L1 built on Cosmos with a focus on true interoperability and maximized performance. At high scalability, developers can build and scale with low gas fees. The OKT Chain ecosystem and infrastructure, including the all-in-one multi-chain Web3 interface, enables a seamless experience for both developers and users."
+}
