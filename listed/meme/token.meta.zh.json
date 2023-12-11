@@ -1,0 +1,18 @@
+{
+    "symbol": "MEME",
+    "name": "Memecoin",
+    "precision": 6,
+    "total_supply": "69,000,000,000",
+    "blockchain": "ERC-20",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2023-11-03",
+    "issue_price": "0.001",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/memecoin",
+        "mdao": ""
+    },
+    "description": "Memecoin 是风靡全球的 meme 平台 9GAG 旗下 Web3 创意工作室 Memeland 的生态系统代币。"
+}

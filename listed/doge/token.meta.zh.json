@@ -1,0 +1,18 @@
+{
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "precision": 6,
+    "total_supply": "142,144,436,383",
+    "blockchain": "Dogechain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2013-12-06",
+    "issue_price": "0.00055",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "https://twitter.com/dogecoin",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "Dogecoin 是一种基于 Shiba Inu (柴犬) 模因的点对点加密货币，在社交媒体上迅速走红。起初，Dogecoin 是作为对当时推出的其他加密货币项目的调侃而创建的，但它迅速发展出一批忠实的粉丝群体，并围绕这个代币发现和开发了新的应用场景。它被视为第一个“模因币”。尽管最初开发的本地代币 DOGE 没有特定的实用性，但多年来作为数字货币的使用逐渐增加。截至 2022 年 9 月，全球有超过 2,000 家商户接受 DOGE 作为支付方式。"
+}

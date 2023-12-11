@@ -1,0 +1,18 @@
+{
+    "symbol": "SOL",
+    "name": "Solana",
+    "precision": 6,
+    "total_supply": "564,361,416",
+    "blockchain": "Solana",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-03-23",
+    "issue_price": "0.22",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/solanaio",
+        "mdao": ""
+    },
+    "description": "Solana is a high-performance blockchain platform committed to providing fast, secure, and scalable solutions for decentralized applications and cryptocurrencies. The platform utilizes an innovative consensus algorithm called Proof of History (PoH) that can handle tens of thousands of transactions per second (TPS) while maintaining decentralization and security. Overall, Solana aims to achieve mass adoption of blockchain through its unique technological advantages, catering to various complex decentralized applications and global financial systems."
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "LUNA",
+    "name": "Terra",
+    "precision": 6,
+    "total_supply": "1,078,518,456",
+    "blockchain": "Terra",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2022-05-28",
+    "issue_price": "20",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/TerraLunaChat",
+        "mdao": ""
+    },
+    "description": "LUNA is the name of the new chain (also known as LUNA 2.0) that emerged after the collapse of UST/Luna in May 2022. After the collapse, a whole new chain was created on which future transactions would be conducted. The old chain was split: Terra is be the name of the new chain (known as LUNA 2.0), and LUNA Classic (LUNC) is the original Terra LUNA blockchain's native token."
+}

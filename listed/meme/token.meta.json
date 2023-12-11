@@ -1,0 +1,18 @@
+{
+    "symbol": "MEME",
+    "name": "Memecoin",
+    "precision": 6,
+    "total_supply": "69,000,000,000",
+    "blockchain": "ERC-20",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2023-11-03",
+    "issue_price": "0.001",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/memecoin",
+        "mdao": ""
+    },
+    "description": "Memecoin is the native ecosystem token of Memeland. Memeland is the Web3 venture studio by 9GAG, the globally popular meme platform."
+}
