@@ -1,0 +1,18 @@
+{
+    "symbol": "LUNA",
+    "name": "Terra",
+    "precision": 6,
+    "total_supply": "1,078,518,456",
+    "blockchain": "Terra",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2022-05-28",
+    "issue_price": "20",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/TerraLunaChat",
+        "mdao": ""
+    },
+    "description": "Terra 是一个基于区块链的稳定币生态系统，其目标是为全球数字经济创建稳定的支付系统。Terra 的稳定币 (如 TerraUSD，或UST) 是与美元等主要货币挂钩的算法稳定币，旨在降低加密市场的波动性。总的来说，Terra 通过算法和用户激励机制，以及与一系列商业合作伙伴的合作，致力于成为一个可扩展的、稳定的、自我调整的全球支付网络。"
+}

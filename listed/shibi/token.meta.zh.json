@@ -1,0 +1,18 @@
+{
+    "symbol": "SHIB",
+    "name": "Shiba Inu",
+    "precision": 6,
+    "total_supply": "999,982,443,253,865",
+    "blockchain": "Ethereum",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2021-02-01",
+    "issue_price": "",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/shibainuthedogecoinkiller",
+        "mdao": ""
+    },
+    "description": "Shiba Inu（SHIB）是受Shiba Inu狗启发的一个模因币。该项目于2020年8月由一位名为Ryoshi的匿名开发者推出，旨在构建一个去中心化和自发性的社区。该代币作为ERC-20代币在以太坊区块链上运行。Shiba Inu生态系统由三个代币组成：SHIB、LEASH和BONE。SHIB作为基础货币和交易媒介。\n该项目提供了多种功能，包括ShibaSwap去中心化交易所、Shiba Inu救助协会、Shiboshi NFT和奖励系统。SHIB可以在生态系统内外使用，可用于交易、在ShibaSwap上提供流动性，并作为合作商户的支付媒介"
+}
