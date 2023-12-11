@@ -3,7 +3,7 @@
     "name": "OKB",
     "precision": 6,
     "total_supply": "300,000,000",
-    "blockchain": "Bitcoin->AMC",
+    "blockchain": "OKChain",
     "token_contract": "amax.mtoken",
     "issue_date": "2018-03-23",
     "issue_price": "1",
