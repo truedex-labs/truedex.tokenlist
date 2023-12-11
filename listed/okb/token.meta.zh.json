@@ -2,17 +2,17 @@
     "symbol": "ORDI",
     "name": "Ordinals",
     "precision": 6,
-    "total_supply": "21,000,000",
-    "blockchain": "Bitcoin->AMC",
+    "total_supply": "300,000,000",
+    "blockchain": "OKChain",
     "token_contract": "amax.mtoken",
-    "issue_date": "2023-03-08",
-    "issue_price": "2.863",
+    "issue_date": "2018-03-23",
+    "issue_price": "1",
     "whitepaper": "",
     "contacts": {
-        "web": "",
-        "tw": "",
-        "tg": "https://t.me/ordicn",
+        "web": "https://www.okx.com/",
+        "tw": "https://twitter.com/okx",
+        "tg": "https://t.me/okexofficial_en",
         "mdao": ""
     },
-    "description": "$ORDI 是比特币区块链上第一个使用 BRC-20 可替代代币标准创建的代币"
+    "description": "$OKB 是欧易生态的功能性代币 ，OKB 的持有者在欧易平台拥有多种权益。自 2019 年 5 月 4 日开始，欧易针对发行总量 3 亿枚的 OKB，进行每三个月一次的销毁计划。OKB 的总量为 3 亿枚，截至 2023 年 09 月 11 日已累计销毁 OKB 数量为 70,182,835.48 枚。OKB 的持有者在欧易平台享有多种权益，包括交易手续费折扣、OKX Jumpstart、OKB 理财等等。我们将长期致力于为 OKB 用户提供一流的服务，并不断在全球范围内拓展 OKB 的应用场景。"
 }

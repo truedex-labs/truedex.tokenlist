@@ -1,0 +1,18 @@
+{
+    "symbol": "OKT",
+    "name": "OKTC",
+    "precision": 8,
+    "total_supply": "21,000,000",
+    "blockchain": "OKT Chain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2021-01-15",
+    "issue_price": "56.88",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/OKCNetwork",
+        "mdao": ""
+    },
+    "description": "OKT 是 OKT Chain 的主网原生代币。OKT Chain 是基于 Cosmos 开发的同时兼容 EVM 与 Wasm 的 L1 公链，专注于真正的互操作性和更高的性能。在其高可扩展性的支持下，开发人员能以较低的 gas 费进行构建和扩展。同时，OKT Chain 生态系统和其丰富的基础设施，例如一体式多链 Web3 接口，将为开发者和链上用户带来更丝滑的体验。"
+}
