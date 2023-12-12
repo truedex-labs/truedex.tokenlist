@@ -1,0 +1,18 @@
+{
+    "symbol": "BNB",
+    "name": "BNB",
+    "precision": 6,
+    "total_supply": "200,000,000",
+    "blockchain": "BNB Smart Chain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2017-07-26",
+    "issue_price": "0.15",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "https://twitter.com/binance",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "$BNB powers the Binance ecosystem and is the native asset of the Binance Chain. BNB is a cryptocurrency created in June 2017, launched during an ICO in July, and initially issued as an ERC-20 token. Designed to be used for a fee reduction on the Binance exchange, its scope was extended over the years."
+}
