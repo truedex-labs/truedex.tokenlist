@@ -1,0 +1,20 @@
+{
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "precision": 8,
+    "total_supply": "720,000,000",
+    "blockchain": "Avalanche",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-09-22",
+    "issue_price": "0.59",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/avalancheavax",
+        "mdao": ""
+    },
+    "description": "Avalanche 是一个开放源代码的区块链平台，提供了高度可扩展、快速且安全的解决方案，旨在优化去中心化应用 (dApps)、企业区块链解决方案和新一代金融资产。它采用了一种创新的共识机制，名为 Avalanche 协议，能够在几秒钟内完成交易确认，且不牺牲去中心化的原则。总的来说，Avalanche 的目标是成为一个能够促进全球数字资产和去中心化的应用交互的桥梁，创建和启动新的金融产品和服务。"
+}
+
+
