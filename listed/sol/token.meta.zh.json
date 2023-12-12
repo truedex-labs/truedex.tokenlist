@@ -9,9 +9,9 @@
     "issue_price": "0.22",
     "whitepaper": "",
     "contacts": {
-        "web": "",
-        "tw": "",
-        "tg": "https://t.me/solanaio",
+        "web": "https://solana.com/",
+        "tw": "https://twitter.com/solana",
+        "tg": "https://t.me/solana",
         "mdao": ""
     },
     "description": "Solana 是一种高性能的区块链平台，致力于为去中心化应用和加密货币提供快速、安全和可扩展的解决方案。该平台采用了创新的共识算法——Proof of History (PoH)，可以处理高达数万笔交易每秒 (TPS)，同时保持了去中心化和安全性。总的来说，Solana 的目标是通过其独特的技术优势，实现区块链的大规模采用，服务于各种复杂的去中心化应用和全球金融系统。"
