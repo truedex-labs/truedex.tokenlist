@@ -1,0 +1,18 @@
+{
+    "symbol": "BNB",
+    "name": "BNB",
+    "precision": 6,
+    "total_supply": "200,000,000",
+    "blockchain": "BNB Smart Chain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2017-07-26",
+    "issue_price": "0.15",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://twitter.com/binance",
+        "mdao": ""
+    },
+    "description": "$BNB 支持 Binance 生态系统，是 Binance 链的原生资产。BNB 是一种数字货币，创建于 2017 年 6 月，在 2017 年 7 月的 ICO 期间推出，最初作为 ERC-20 代币发行。它最初设计用于在 Binance 交易所减免费用，多年来使用范围不断扩大。"
+}
