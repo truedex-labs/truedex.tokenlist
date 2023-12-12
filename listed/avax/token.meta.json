@@ -1,0 +1,18 @@
+{
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "precision": 8,
+    "total_supply": "720,000,000",
+    "blockchain": "Avalanche",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-09-22",
+    "issue_price": "0.59",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "",
+        "tg": "https://t.me/avalancheavax",
+        "mdao": ""
+    },
+    "description": "Avalanche is an open-source blockchain platform that provides highly scalable, fast, and secure solutions aimed at optimizing decentralized applications (dApps), enterprise blockchain solutions, and next-generation financial assets. It utilizes an innovative consensus mechanism called the Avalanche protocol, which enables transaction confirmations in a matter of seconds without sacrificing decentralization principles. Overall, Avalanche aims to serve as a bridge for global digital asset and decentralized application interaction, facilitating the creation and launch of new financial products and services."
+}
