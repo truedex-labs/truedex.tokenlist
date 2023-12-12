@@ -1,0 +1,18 @@
+{
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "precision": 8,
+    "total_supply": "1,961,040,992",
+    "blockchain": "Filecoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-10-15",
+    "issue_price": "26.73",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "https://twitter.com/minefilecoin",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "Filecoin 是一种分布式存储网络，它将文件存储转变为了一个算法市场，使存储和检索文件变得更加开放和优化。存储提供者在网络上出售未使用的磁盘空间，获得 Filecoin 代币作为回报，而客户可以使用 Filecoin 代币购买存储空间或从网络中检索文件。总的来说，Filecoin 的目标是建立一个去中心化的、高效的和强大的网络，以促进更公平的数据存储和检索市场。"
+}

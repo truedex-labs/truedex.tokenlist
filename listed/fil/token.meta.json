@@ -1,0 +1,18 @@
+{
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "precision": 8,
+    "total_supply": "1,961,040,992",
+    "blockchain": "Filecoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-10-15",
+    "issue_price": "26.73",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "https://twitter.com/minefilecoin",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "Filecoin is a distributed storage network that transforms file storage into an algorithmic marketplace, making storage and retrieval of files more open and optimized. Storage providers sell their unused disk space on the network and earn Filecoin tokens as rewards, while clients can use Filecoin tokens to purchase storage space or retrieve files from the network. Overall, Filecoin aims to establish a decentralized, efficient, and robust network to foster a more equitable market for data storage and retrieval."
+}
