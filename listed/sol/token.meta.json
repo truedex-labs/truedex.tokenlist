@@ -7,7 +7,7 @@
     "token_contract": "amax.mtoken",
     "issue_date": "2020-03-23",
     "issue_price": "0.22",
-    "whitepaper": "",
+    "whitepaper": "https://solana.com/solana-whitepaper.pdf",
     "contacts": {
         "web": "https://solana.com/",
         "tw": "https://twitter.com/solana",
