@@ -9,9 +9,9 @@
     "issue_price": "1.06",
     "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
     "contacts": {
-        "web": "",
-        "tw": "",
-        "tg": "",
+        "web": "https://eosnetwork.com/",
+        "tw": "https://twitter.com/EOSnFoundation",
+        "tg": "https://t.me/antelopedevs",
         "mdao": ""
     },
     "description": "$EOS (EOS) is a third-generation blockchain designed to provide a robust infrastructure for decentralized applications (DApps) with a focus on performance and user experience. Similar to Ethereum, EOS utilizes smart contract technology to enable self-executing services and eliminate intermediaries.\n\nEOS aims to achieve high network speed and near-zero fees, with the ability to process up to 4,000 transactions per second. This is made possible by implementing the delegated Proof-of-Stake (DPoS) consensus protocol, which provides scalability without requiring expensive hardware from validators.\n\nIn the EOS ecosystem, token holders are granted governance power proportional to their stake. They can vote for block producers who validate and produce blocks on the network. The voting system allows for 21 block producers at a time, and the selected producers may change periodically. EOS token holders can also vote on proposals for protocol upgrades and modifications.\n\nBlock producers on the EOS network are also rewarded with EOS tokens for adding new blocks to the blockchain. These tokens serve as incentives and play a crucial role in the governance mechanism of the EOS ecosystem. Holders can vote on development and governance proposals based on the number of coins they possess."
