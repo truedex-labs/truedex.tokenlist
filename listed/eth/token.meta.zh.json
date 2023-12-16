@@ -1,0 +1,18 @@
+{
+    "symbol": "ETH",
+    "name": "以太坊",
+    "precision": 18,
+    "total_supply": "120,206,615",
+    "blockchain": "Ethereum",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2014-07-24",
+    "issue_price": "0.3",
+    "whitepaper": "https://ethereum.org/zh/whitepaper/",
+    "contacts": {
+        "web": "https://ethereum.org",
+        "tw": "https://twitter.com/ethereum",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "以太坊 (ETH) 是一种去中心化的区块链网络。其原生代币 Ether (ETH) 既是数字支付方式，又是创建和部署去中心化应用 (DApps) 和智能合约的软件平台。作为市值第二大的加密货币，以太坊通过引入智能合约功能改变了行业格局，使用户和开发者能够进入去中心化金融 (DeFi) 等新兴领域。以太坊推动了包括 DeFi、玩赚加密游戏和热门的非同质化代币 (NFT) 市场在内的价值数十亿美元的行业的发展。Ether (ETH) 是以太坊区块链的原生代币。它用于支付网络上的交易手续费，提供 PoS 共识机制下的抵押奖励，并作为数字资产 (如NFT) 的货币交换媒介。以太坊引入了 ERC-20、ERC-721 和 ERC-1155 等代币标准，促进了可替代和非可替代代币的创建。这些标准在各个行业的增长中发挥了重要作用，尤其是 NFT 市场。以太坊虚拟机 (EVM) 是以太坊区块链的重要组成部分，作为以太坊账户和智能合约所驻留的环境。它充当一个分布式计算机，执行着由运行以太坊客户端的相互连接节点维护的数百万个项目。"
+}

@@ -1,0 +1,18 @@
+{
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "precision": 18,
+    "total_supply": "120,206,615",
+    "blockchain": "Ethereum",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2014-07-24",
+    "issue_price": "0.3",
+    "whitepaper": "https://ethereum.org/en/whitepaper/",
+    "contacts": {
+        "web": "https://ethereum.org",
+        "tw": "https://twitter.com/ethereum",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "Ethereum (ETH) is a decentralized blockchain network. Its native coin, Ether (ETH), serves as a digital payment method and a software platform for creating and deploying decentralized applications (DApps) and smart contracts. As the second-largest cryptocurrency by market capitalization, Ethereum has transformed the industry by introducing smart contract functionality, enabling users and developers to access emerging sectors like decentralized finance (DeFi). Ethereum has facilitated the development of multi-billion dollar industries, including DeFi, play-to-earn crypto gaming, and the popular NFT market. Ether (ETH) is the native token of the Ethereum blockchain. It is used for paying transaction fees on the network, provide staking rewards after Ethereum moved to PoS, and serves as a currency exchange for digital assets such as NFTs. Ethereum has introduced token standards like ERC-20, ERC-721, and ERC-1155, which have facilitated the creation of fungible and non-fungible tokens. These standards have played a significant role in the growth of various industries, particularly the NFT market. The Ethereum Virtual Machine (EVM) is a vital component of the Ethereum blockchain, serving as the environment where Ethereum accounts and smart contracts reside. It functions as a decentralized computer, executing millions of projects maintained by interconnected nodes running Ethereum clients.."
+}
