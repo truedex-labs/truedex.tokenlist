@@ -1,0 +1,18 @@
+{
+    "symbol": "KSATS",
+    "name": "1000SATS (Ordinals)",
+    "precision": 6,
+    "total_supply": "2,100,000,000,000",
+    "blockchain": "Bitcoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2023-12-16",
+    "issue_price": "0.000448802490556196",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://unisat.io/brc20/sats",
+        "tw": "",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "SATS 是一种向satoshi致敬的 BRC-20 代币。 SATS是satoshi的缩写，是比特币的最小单位。 一聪等于 0.00000001 BTC。 请注意，该代币是meme代币，由匿名团队发行。1000SATS是SATS的1000倍。"
+}

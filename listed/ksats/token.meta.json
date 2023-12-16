@@ -1,0 +1,18 @@
+{
+    "symbol": "KSATS",
+    "name": "1000SATS (Ordinals)",
+    "precision": 6,
+    "total_supply": "2,100,000,000,000",
+    "blockchain": "Bitcoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2023-12-16",
+    "issue_price": "0.000448802490556196",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://unisat.io/brc20/sats",
+        "tw": "",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "SATS is a BRC-20 token that pays homage to satoshi. SATS is the abbreviation for satoshi, the smallest unit of Bitcoin. One satoshi equals to 0.00000001 BTC. Please note that the token is a meme token and is inscribed by an anonymous team. 1000SATS is 1000 times of SATS."
+}
