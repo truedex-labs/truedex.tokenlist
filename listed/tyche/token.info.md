@@ -3,8 +3,8 @@
 |Item | Value|
 |--|--|
 | Symbol | `TYCHE` |
-| Name | `TycheFi Wealth Generation Token` |
-| Total Supply | `2100` |
+| Name | `TycheFi Wealth Token` |
+| Total Supply | `21,000,000` |
 | Blockchain | `Armonia Meta Chain`|
 | Token Contract | `tyche.token` |
 
