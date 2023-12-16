@@ -1,0 +1,18 @@
+{
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "precision": 8,
+    "total_supply": "21,000,000",
+    "blockchain": "Bitcoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2008-10-31",
+    "issue_price": "0.0025",
+    "whitepaper": "https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf",
+    "contacts": {
+        "web": "https://bitcoin.org/",
+        "tw": "https://twitter.com/Bitcoin",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "比特币是一种数字货币，也是一种支付系统，由一个化名中本聪 (Satoshi Nakamoto) 的匿名人士或团体于 2008 年首次提出。比特币是去中心化的，这意味着它不受政府或金融机构的控制。交易通过节点网络进行验证，并记录在名为区块链的公共分布式账本中。比特币可以与接受比特币的供应商交换商品和服务。它的设计目的是提供一种比信用卡或银行转账等传统方式更快、更便宜、更安全的交换手段。第一批比特币诞生于 2009 年。据估计，在 2010 年消失之前，中本聪已经挖掘了大约 100 万枚比特币，当时他把网络警告密钥和代码库的控制权交给了加文·安德森 (Gavin Andresen)，后者后来成为了比特币基金会 (Bitcoin Foundation) 的首席开发者，成为一家负责开发和推广比特币网络的非营利组织。"
+}

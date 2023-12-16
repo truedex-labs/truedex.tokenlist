@@ -1,0 +1,18 @@
+{
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "precision": 8,
+    "total_supply": "21,000,000",
+    "blockchain": "Bitcoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2008-10-31",
+    "issue_price": "0.0025",
+    "whitepaper": "https://bitcoin.org/bitcoin.pdf",
+    "contacts": {
+        "web": "https://bitcoin.org/",
+        "tw": "https://twitter.com/Bitcoin",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "Bitcoin is a cryptocurrency and a payment system that was first proposed in 2008 by an anonymous person or group of people under the name Satoshi Nakamoto. Bitcoin is decentralized and not subject to government or central authority control. The first bitcoins were created in 2009. Nakamoto is estimated to have mined about one million bitcoins before disappearing in 2010 when he handed the network alert key and control of the code repository over to Gavin Andresen, who later became the lead developer at the Bitcoin Foundation, the nonprofit organization in charge of developing and promoting the Bitcoin network."
+}
