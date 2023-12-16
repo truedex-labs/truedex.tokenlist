@@ -7,7 +7,7 @@
     "token_contract": "amax.mtoken",
     "issue_date": "2020-09-22",
     "issue_price": "0.59",
-    "whitepaper": "",
+    "whitepaper": "https://www.avalabs.org/whitepapers",
     "contacts": {
         "web": "https://avax.network",
         "tw": "https://twitter.com/Avax",
