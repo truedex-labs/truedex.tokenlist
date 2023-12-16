@@ -7,7 +7,7 @@
     "token_contract": "amax.mtoken",
     "issue_date": "2017-07-02",
     "issue_price": "1.06",
-    "whitepaper": "",
+    "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
     "contacts": {
         "web": "",
         "tw": "",
