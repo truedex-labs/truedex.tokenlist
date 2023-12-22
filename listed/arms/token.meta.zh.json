@@ -1,0 +1,18 @@
+{
+    "symbol": "ARMS",
+    "name": "arms",
+    "precision": 8,
+    "total_supply": "21,000,000",
+    "blockchain": "Armonia Meta Chain",
+    "token_contract": "airc.token",
+    "issue_date": "2023-12-25",
+    "issue_price": "",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://amaxup.xyz/",
+        "tw": "https://twitter.com/Armonia_Network",
+        "tg": "https://t.me/ArmoniaMetaChain",
+        "mdao": ""
+    },
+    "description": "$ARMS 是发行在Armonia Meta Chain上的第一个铭文通证。"
+}
