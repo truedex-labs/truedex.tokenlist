@@ -1,0 +1,18 @@
+{
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "precision": 6,
+    "total_supply": "1,416,795,014",
+    "blockchain": "polkadot",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-8-22",
+    "issue_price": "2.5",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://polkadot.network/",
+        "tw": "https://twitter.com/Polkadot",
+        "tg": "https://t.me/PolkadotOfficial",
+        "mdao": ""
+    },
+    "description": "Polkadot 通常被称为“区块链中的区块链”，是 2020 年 5 月推出的下一代 Layer-0 协议和开源区块链，以实现安全、有弹性和公平的 Web3 这一更广阔的愿景。DOT 是其原生代币和治理代币。"
+}
