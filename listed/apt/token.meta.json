@@ -1,0 +1,18 @@
+{
+    "symbol": "APT",
+    "name": "Aptos",
+    "precision": 6,
+    "total_supply": "1,083,468,793",
+    "blockchain": "Aptos",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2022-10-19",
+    "issue_price": "1",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://aptoslabs.com/",
+        "tw": "https://twitter.com/aptoslabs",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "Aptos is a layer 1 project aiming to develop a safe, scalable, and upgradable Web3 infrastructure. The project originated at Facebook as a project called Libra (Diem), but the Aptos team has since separated from that original project. APT is the native token of Aptos."
+}
