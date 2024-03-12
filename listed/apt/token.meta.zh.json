@@ -1,0 +1,18 @@
+{
+    "symbol": "APT",
+    "name": "Aptos",
+    "precision": 6,
+    "total_supply": "1,083,468,793",
+    "blockchain": "Aptos",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2022-10-19",
+    "issue_price": "1",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://aptoslabs.com/",
+        "tw": "https://twitter.com/aptoslabs",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "Aptos 是一个 1 层项目，旨在开发安全、可扩展、可升级的 Web3 基础设施，Aptos 团队现在已经从之前的 Facebook 团队独立出来，之前曾参与 Libra (Diem) 的开发。APT 是 Aptos 的原生代币。"
+}

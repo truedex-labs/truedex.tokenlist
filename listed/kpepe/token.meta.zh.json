@@ -1,0 +1,18 @@
+{
+    "symbol": "pepe",
+    "name": "Pepe",
+    "precision": 6,
+    "total_supply": "420,690,000,000,000",
+    "blockchain": "Ethereum",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2023-4-14",
+    "issue_price": "0.0000005",
+    "whitepaper": "",
+    "contacts": {
+        "web": "",
+        "tw": "https://twitter.com/pepecoineth",
+        "tg": "https://t.me/pepecoineth",
+        "mdao": ""
+    },
+    "description": "Pepe the Frog 是一个卡通人物和互联网 meme。Pepe 被设计成一个拥有人形身体的绿色拟人青蛙，是世界上最知名的 meme 之一。1 KPEPE = 1000 PEPE"
+}
