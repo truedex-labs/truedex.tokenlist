@@ -1,0 +1,19 @@
+{
+    "symbol": "EAC",
+    "name": "Earthcoin",
+    "precision": 8,
+    "total_supply": "13,500,000,000",
+    "blockchain": "Earthcoin",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2014-03-12",
+    "issue_price": "0.000382",
+    "whitepaper": "https://drive.google.com/file/d/1ODh22tVGWF-bH9WoPfXJOgAXPhIfZ3GQ/view",
+    "contacts": {
+        "web": "www.deveac.com",
+        "tw": "https://twitter.com/earthcoinplus",
+        "tg": "https://t.me/earthcoinplus",
+        "mdao": "",
+        "email": "earthcoinplus@gmail.com"
+    },
+    "description": "Earthcoin is a global cryptocurrency that was launched in Canada on December 20, 2013 and is committed to sustainable and equitable development."
+}
