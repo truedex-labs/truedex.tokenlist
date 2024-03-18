@@ -1,0 +1,18 @@
+{
+    "symbol": "TON",
+    "name": "TON",
+    "precision": 6,
+    "total_supply": "5,104,366,109",
+    "blockchain": "Open Network (TON) ",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2019-11-15",
+    "issue_price": "2.0",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://ton.org/",
+        "tw": "",
+        "tg": "https://t.me/tonblockchain",
+        "mdao": ""
+    },
+    "description": "The Open Network (TON) is a scalable multi-blockchain network that can process millions of transactions per second. TON is the name and ticker symbol of The Open Network's native utility and governance token.The Open Network aims to solve scalability and interoperability problems using its multi-blockchain architecture. TON blockchain is a collection of blockchains that consists of a masterchain, up to 232 workchains and up to 260 shardchains. TON's masterchain is the principal blockchain with all the information about the protocol and the current parameters. On the other hand, workchains are blockchains that handle smart contract transactions. These workchains are further subdivided into shards. Through these shards, TON transfers messages instantly between any two blockchains, regardless of the network size, achieving scalability at speed. Furthermore, to combat security issues and maintain decentralization, TON uses proof-of-stake consensus and allows validators to add new blocks on top of any invalidated block to avoid unnecessary forks."
+}
