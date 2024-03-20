@@ -1,0 +1,18 @@
+{
+    "symbol": "CFX",
+    "name": "Conflux",
+    "precision": 59,
+    "total_supply": "5,478,628,39",
+    "blockchain": "Conflux Network",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-10-29",
+    "issue_price": "0.08",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://confluxnetwork.org/zh",
+        "tw": "https://twitter.com/Conflux_Network",
+        "tg": "https://t.me/Conflux_English",
+        "mdao": ""
+    },
+    "description": "Conflux Network是一个可扩展的去中心化区块链网络，旨在实现高吞吐量和快速确认。 Conflux Network的共识算法基于一种称为树图的特殊有向非循环图（DAG）结构。与以太坊仅将单个链上的交易接受到其账本中不同，树图可以在所有并发区块中合并并处理交易。CFX是Conflux Network的原生功能型代币，用于网络共识、生态系统激励、网络治理和抵押。"
+}

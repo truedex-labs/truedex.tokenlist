@@ -1,0 +1,18 @@
+{
+     "symbol": "CFX",
+    "name": "Conflux",
+    "precision": 59,
+    "total_supply": "5,478,628,39",
+    "blockchain": "Conflux Network",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2020-10-29",
+    "issue_price": "0.08",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://confluxnetwork.org/zh",
+        "tw": "https://twitter.com/Conflux_Network",
+        "tg": "https://t.me/Conflux_English",
+        "mdao": ""
+    },
+    "description": "Conflux Network is a scalable and decentralized blockchain network which aims to have high throughput and fast confirmation. The Conflux Network consensus algorithm operates with a special Directed Acyclic Graph (DAG) structure called Tree-Graph. Unlike Ethereum which only accepts transactions on a single chain into its ledger, Tree-Graph incorporates and processes transactions in all concurrent blocks. CFX is Conflux Network’s native utility token and is used for network consensus, ecosystem incentivization, governance and staking."
+}
