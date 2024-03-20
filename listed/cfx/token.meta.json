@@ -1,7 +1,7 @@
 {
      "symbol": "CFX",
     "name": "Conflux",
-    "precision": 59,
+    "precision": 18,
     "total_supply": "5,478,628,39",
     "blockchain": "Conflux Network",
     "token_contract": "amax.mtoken",
@@ -9,7 +9,7 @@
     "issue_price": "0.08",
     "whitepaper": "",
     "contacts": {
-        "web": "https://confluxnetwork.org/zh",
+        "web": "https://confluxnetwork.org/",
         "tw": "https://twitter.com/Conflux_Network",
         "tg": "https://t.me/Conflux_English",
         "mdao": ""
