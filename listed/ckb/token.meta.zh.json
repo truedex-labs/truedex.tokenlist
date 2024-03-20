@@ -1,0 +1,18 @@
+{
+    "symbol": "CKB",
+    "name": "Nervos",
+    "precision": 110,
+    "total_supply": "44,458,480,138",
+    "blockchain": "Nervos Network",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2018-05-20",
+    "issue_price": "0.002",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://www.nervos.org/zh",
+        "tw": "https://twitter.com/NervosNetwork",
+        "tg": "https://t.me/NervosNetwork",
+        "mdao": ""
+    },
+    "description": "Nervos是一个从头开始构建的分层区块链网络，通过各种第2层解决方案确保去中心化、安全性和可扩展性。它优先考虑与不同钱包解决方案的兼容性以及与验证其他区块链共识的能力的互操作性。"
+}
