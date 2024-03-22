@@ -2,7 +2,7 @@
     "symbol": "NEAR",
     "name": "NEAR",
     "precision": 14,
-    "total_supply": "1,182,135,452",
+    "total_supply": "1.18B",
     "blockchain": "Near Protocol",
     "token_contract": "amax.mtoken",
     "issue_date": "2020-10-14",
