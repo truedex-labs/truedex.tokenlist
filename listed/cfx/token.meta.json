@@ -2,7 +2,7 @@
      "symbol": "CFX",
     "name": "Conflux",
     "precision": 18,
-    "total_supply": "5,478,628,39",
+    "total_supply": "5.48B",
     "blockchain": "Conflux Network",
     "token_contract": "amax.mtoken",
     "issue_date": "2020-10-29",

@@ -2,7 +2,7 @@
     "symbol": "CKB",
     "name": "Nervos",
     "precision": 18,
-    "total_supply": "44,459,220,120",
+    "total_supply": "44.47B",
     "blockchain": "Nervos Network",
     "token_contract": "amax.mtoken",
     "issue_date": "2018-05-20",
