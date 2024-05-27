@@ -1,0 +1,19 @@
+{
+    "symbol": "BCTZ",
+    "name": "美丽乡村通证",
+    "precision": 6,
+    "total_supply": "100,000,000,000",
+    "blockchain": "Armonia Meta Chain",
+    "token_contract": "mdao.token",
+    "issue_date": "2024-06-01",
+    "issue_price": 0.000001,
+    "contacts": {
+        "email": "",
+        "web": "",
+        "tw": "",
+        "tg": "",
+        "btok": "https://btok9.com/hstz1688",
+        "mdao": "beautifu.dao"
+    },
+    "description": "$BCTZ 美丽乡村社区，介绍世界美丽乡村产品，振兴乡村经济，让大家通过乡村数字经济获得财富收益！"
+}
