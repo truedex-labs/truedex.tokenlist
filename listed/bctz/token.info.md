@@ -8,9 +8,6 @@
 | Blockchain | `Armonia Meta Chain`|
 | Token Contract | `mdao.token` |
 
-# Project Description
-`$BCTZ`is the share as well as the governance token to Exchange Merchant community and its value comes from the community consensus, community business income as well as the force to deflate the overall supply.
-
 # Token distribution
 
 * Founders account for 1% (released in 4 years, 25% each year);
