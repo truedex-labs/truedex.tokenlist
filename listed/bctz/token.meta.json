@@ -1,0 +1,19 @@
+{
+    "symbol": "BCTZ",
+    "name": "Beautiful country token",
+    "precision": 6,
+    "total_supply": "100,000,000,000",
+    "blockchain": "Armonia Meta Chain",
+    "token_contract": "mdao.token",
+    "issue_date": "2024-06-01",
+    "issue_price": 0.000001,
+    "contacts": {
+        "email": "",
+        "web": "",
+        "tw": "",
+        "tg": "",
+        "btok": "https://btok9.com/hstz1688",
+        "mdao": "beautifu.dao"
+    },
+    "description": "$BCTZ Beautiful Country Community introduces the world’s beautiful rural products, revitalizes the rural economy, and allows everyone to gain wealth through the rural digital economy."
+}
