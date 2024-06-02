@@ -7,6 +7,7 @@
     "token_contract": "mdao.token",
     "issue_date": "2023-08-03",
     "issue_price": 0.01,
+    "whitepaper": "https://docs.truedex.io/listing-token-white-paper/hstz-bai-pi-shu",
     "contacts": {
         "email": "",
         "web": "",
