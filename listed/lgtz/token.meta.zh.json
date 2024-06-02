@@ -6,6 +6,7 @@
     "token_contract": "mdao.token",
     "issue_date": "2023-11-27",
     "issue_price": 0.1,
+    "whitepaper": "https://docs.truedex.io/listing-token-white-paper/lgtz-bai-pi-shu",
     "contacts": {
         "email": "",
         "web": "",
