@@ -1,0 +1,18 @@
+{
+    "symbol": "TRUMP",
+    "name": "TRUMP",
+    "precision": 6,
+    "total_supply": "1,000,000,000 ",
+    "blockchain": "Solana Chain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2025-01-18",
+    "issue_price": "12",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://gettrumpmemes.com/",
+        "tw": "https://x.com/GetTrumpMemes",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "$TRUMP 是特朗普官方 Meme 币。"
+}
