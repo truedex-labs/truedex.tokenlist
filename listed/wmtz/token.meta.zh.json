@@ -6,6 +6,7 @@
     "token_contract": "mdao.token",
     "issue_date": "2023-11-30",
     "issue_price": 0.0001,
+    "whitepaper": "https://docs.truedex.io/listing-token-white-paper/wmtz-bai-pi-shu",
     "contacts": {
         "email": "",
         "web": "",
