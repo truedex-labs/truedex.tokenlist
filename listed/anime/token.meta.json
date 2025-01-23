@@ -1,0 +1,18 @@
+{
+    "symbol": "ANIME",
+    "name": "ANIME",
+    "precision": 6,
+    "total_supply": "10,000,000,000",
+    "blockchain": "",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2025-01-15",
+    "issue_price": "0.06",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://www.anime.xyz/",
+        "tw": "https://x.com/animecoin",
+        "tg": "",
+        "mdao": ""
+    },
+    "description": "$AnimeCoin 代表着未来的动漫产业，Azuki 和即将成立的 AnimeCoin 社区将继续倡导和推动它们的进步"
+}
