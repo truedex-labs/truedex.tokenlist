@@ -1,0 +1,18 @@
+{
+    "symbol": "RAY",
+    "name": "RAY",
+    "precision": 6,
+    "total_supply": "555,000,000",
+    "blockchain": "Solana Chain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2021-02-23",
+    "issue_price": "0.13400 ",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://raydium.io/swap/",
+        "tw": "https://x.com/raydiumprotocol",
+        "tg": "https://t.me/raydiumprotocol",
+        "mdao": ""
+    },
+    "description": "$RAY Raydium Protocol is a decentralized finance ecosystem based on the Solana blockchain. Raydium's main feature is a decentralized exchange built around the automated market maker model popularized by Ethereum's Uniswap. RAY is the platform's native cryptocurrency, serving primarily as its governance token. Raydium's AMM uses the Serum DEX's central order book to share liquidity and enable even faster trades. In addition to the DEX itself, Raydium Protocol offers various yield-farming opportunities and provides a launchpad, called AcceleRaytor, for new projects."
+}

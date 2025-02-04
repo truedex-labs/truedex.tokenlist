@@ -1,0 +1,18 @@
+{
+    "symbol": "RAY",
+    "name": "RAY",
+    "precision": 6,
+    "total_supply": "555,000,000",
+    "blockchain": "Solana Chain",
+    "token_contract": "amax.mtoken",
+    "issue_date": "2021-02-23",
+    "issue_price": "0.13400 ",
+    "whitepaper": "",
+    "contacts": {
+        "web": "https://raydium.io/swap/",
+        "tw": "https://x.com/raydiumprotocol",
+        "tg": "https://t.me/raydiumprotocol",
+        "mdao": ""
+    },
+    "description": "$RAY Raydium Protocol是基于Solana区块链的去中心化金融生态系统。Raydium的主要功能是围绕以太坊Uniswap推广的自动做市商模型构建的去中心化交易所。RAY是该平台的本地加密货币，主要用作治理代币。Raydium的AMM使用Serum DEX的中央订单簿来共享流动性并实现更快的交易。除了DEX本身，Raydium Protocol还提供各种收益农场机会，并为新项目提供名为AcceleRaytor的发射台。"
+}
